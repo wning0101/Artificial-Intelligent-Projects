@@ -1,0 +1,2 @@
+# Artificial-Intelligent-Projects
+I implemented this Hand Written Digit Recognition System by three layers neural networks. Each layer contains one bias node to adjust my training and they are all fully connected to the next layer. The values produced by forward propagation, but the node coefficients are update by backward propagation. After trained by 60000 images, the model performs a 95% accuracy on 10000 testing images.
